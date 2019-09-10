@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucas/workspace_CLion/_1_MMP-CrackTest/disc.h
+fileHandler.h
+/home/lucas/workspace_CLion/_1_MMP-CrackTest/fileHandler.h
+
+/home/lucas/workspace_CLion/_1_MMP-CrackTest/fileHandler.h
+iostream
+-
+string
+-
+fstream
+-
+sstream
+-
+ctime
+-
+
+/home/lucas/workspace_CLion/_1_MMP-CrackTest/iTestTypes.cpp
+iTestTypes.h
+/home/lucas/workspace_CLion/_1_MMP-CrackTest/iTestTypes.h
+
+/home/lucas/workspace_CLion/_1_MMP-CrackTest/iTestTypes.h
+unistd.h
+-
+future
+-
+cmath
+-
+disc.h
+/home/lucas/workspace_CLion/_1_MMP-CrackTest/disc.h
+
